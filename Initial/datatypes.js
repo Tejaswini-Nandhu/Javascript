@@ -37,10 +37,4 @@ for(i in firstObj){
     console.log(i,":",firstObj[i]); 
 }
 console.log(1-"1") // 0
-let a=2
-let b=3
-console.log("[++a+b++]",++a+b++);
-console.log("[a+b++]",a+b++);console.log("[a+b]",a+b);
-console.log("[++a+b]",++a+b);
-console.log("[++a]",++a);
-console.log("[b++]",b++)
+
