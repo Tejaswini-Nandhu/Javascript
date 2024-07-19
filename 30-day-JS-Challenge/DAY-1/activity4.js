@@ -1,4 +1,8 @@
-// Task5 : Reassigning variables : Declare a variable using let, assign it an initial value, reassign a new value, and log both vlaues to the console.
 
-let value = "Lali";
-console.log()
+// Declare a new variable using let, and reassign new value to it , log the both values
+
+let variable = 'Radha';
+console.log(variable);
+
+variable = 'Radha Krishna';
+console.log(variable);
